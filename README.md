@@ -40,7 +40,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 Para esse projeto foi utilizada as seguintes tecnologias:
 
->CSS
->HTML
+. CSS
+. HTML
 
 
